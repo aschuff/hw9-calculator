@@ -25,28 +25,24 @@ body {
 }
 div.clear {
   cursor: pointer;
+  text-align: center;
   margin-top: 5%;
   margin-left: 5%;
   width: 20%;
-  /*background-color: lightgray;
-  border: solid .2em*/
-  border-image-source: initial;
-  border-image-slice: initial;
-  border-image-width: initial;
-  border-image-outset: initial;
-  border-image-repeat: initial;
-  background-color: aquamarine;
-  box-sizing: border-box;
+  border: solid white 2px;
+  background-color: teal;
   padding: 2px 6px 3px;
-  border-width: 2px;
-  border-style: outset;
-  border-color: white;
+
 }
 div.equals {
   cursor: pointer;
+  text-align: center;
   margin-top: 5%;
   margin-left: 5%;
   width: 20%;
+  border: solid white 2px;
+  background-color: teal;
+  padding: 2px 6px 3px;
 }
 
 input {

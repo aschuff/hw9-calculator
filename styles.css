@@ -9,6 +9,7 @@ body {
   position: absolute;
   color: #FFF;
   border: solid .2em gray;
+  border-radius: 12px;
 }
 
 .result-window {
